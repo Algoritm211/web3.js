@@ -21,7 +21,7 @@ Only published PRs will be considered for review. Draft PRs will be considered i
     *   [ ] The documentation was updated (if applicable).
     *   [ ] The CHANGELOG was updated accordingly.
     *   [ ] The CI with QA passes successfully.
-        *   [ ] The CI logs were manually checked to ensure false positives were not reported.
+        
     *   [ ] All comments have been addressed.
     *   [ ] Doesn't add undue maintenance burden.
     *   [ ] Doesn't increase the bundle size or is clearly explained why.
